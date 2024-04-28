@@ -1,0 +1,9 @@
+.venv
+.env
+datatuyensinh
+test_img_pdf.ipynb
+*.ipynb
+.vscode
+__pycache__
+index_tuyensinh
+history_chat
